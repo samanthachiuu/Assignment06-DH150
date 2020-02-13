@@ -29,5 +29,5 @@ Please have one page documentation about your low-fidelity prototype:
 
 Tip(1): if you have multiple revisions + test history reported, it is a good reason for the instructor to give you extra credits
 
-[wireframes](https://github.com/sofiatam/Assignment06-DH150/files/4196996/DH.150-.Assignment06.pdf)
-[wireframes+wireflows](https://github.com/sofiatam/Assignment06-DH150/files/4196994/ASSIGNMEN.pdf)
+![wireframes](https://user-images.githubusercontent.com/25126263/74411196-8f01be00-4def-11ea-8a53-9c39bab6c108.jpg)
+![wireflows](https://user-images.githubusercontent.com/25126263/74411253-accf2300-4def-11ea-9087-ba58d7912ddf.jpg)
