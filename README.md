@@ -27,4 +27,7 @@ Please have one page documentation about your low-fidelity prototype:
 
 +1: What you would change or design differently based on the feedback you got from the prototype testing. For each, describe in a sentence or two what problem the tester encountered, and in another sentence or two how you would address the problem if you were to revise the prototype.
 
-Tip(1): if you have multiple revisions + test history reported, it is a good reason for the instructor to give you extra creditsx
+Tip(1): if you have multiple revisions + test history reported, it is a good reason for the instructor to give you extra credits
+
+[wireframes](https://github.com/sofiatam/Assignment06-DH150/files/4196996/DH.150-.Assignment06.pdf)
+[wireframes+wireflows](https://github.com/sofiatam/Assignment06-DH150/files/4196994/ASSIGNMEN.pdf)
