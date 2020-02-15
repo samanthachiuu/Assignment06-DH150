@@ -3,7 +3,8 @@
 ### Sofia Tam
 --------------------
 
-**Description** 
+**Description**
+
 My project is based on the popular community-based website, Yelp. Yelp is a site where community members can publish reviews for several different kinds of businesses, such as restaurants and salons, for example. The primary usage of Yelp is for its food reviews, so that it is the aspect of Yelp I chose to focus on.
 
 For my project, I chose to emphasize the social aspect of Yelp. I believe that eating is a very social event, and based on my user research, it was made clear to me that most people do not utilize Yelp's social potential. Users primarily use Yelp to find restaurants to eat at, and ultimate decisions seem to be based on some sort of holistic review, considering factors such as rating, pictures, and price. My user research helped me see that Yelp is relatively intuitive to use, but there are some features that are left unused. For example, the potential for the social feed and collections aspects of Yelp are not fully utilized. 
@@ -16,19 +17,20 @@ The purpose of this low fidelity prototype is to document the flow of these thre
 
 --------------------
 **Tasks**
+
 1. Discover trending restaurants.
 2. View daily updates from businesses.
 3. See profiles of Yelp friends.
 
 --------------------
 **Pictures**
+
 ![wireframes](https://user-images.githubusercontent.com/25126263/74411196-8f01be00-4def-11ea-8a53-9c39bab6c108.jpg)
 ![wireflows](https://user-images.githubusercontent.com/25126263/74411253-accf2300-4def-11ea-9087-ba58d7912ddf.jpg)
 ![edits](https://user-images.githubusercontent.com/25126263/74574401-7650ef80-4f38-11ea-9049-ce5fa3e66a63.jpg)
 
 --------------------
 **Notes**
-+1: What you would change or design differently based on the feedback you got from the prototype testing. For each, describe in a sentence or two what problem the tester encountered, and in another sentence or two how you would address the problem if you were to revise the prototype.
 
 The process of creating this low-fidelity prototype included starting off with a familiar screen, the Yelp home page. Then, I proceeded to think about the features I wanted to implement. I knew that I wanted to emphasize the social aspect of Yelp, so I created a "Discover" tab that would be present in the header of the website. From there, I created the general "Discover" landing page that incorporated all three of my suggested features. This part was difficult because I was unsure how I wanted to display the "Discover" landing page. Then, I created the individual pages for each map, "Trending," "Updates," and "Friends." I based these maps off of Yelp's existing UI for Collections, which made creating these maps quite easy. I tried to maintain Yelp's UI throughout the creation of this prototype, which helped because it gave me easy design ideas, but it also made it more difficult because I had to envision what style choices Yelp would realistically implement. 
 
